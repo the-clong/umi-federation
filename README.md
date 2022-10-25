@@ -1,0 +1,2 @@
+# umi-federation
+此demo用来实现umi中的qiankun微应用和使用webpack5的模块联邦共享组件
